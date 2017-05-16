@@ -20,8 +20,8 @@
 
 Written in Python 2.7
 
-* numpy
+* numpy==1.12.1
 
-* tensorflow
+* tensorflow-gpu==1.1.0
 
-* spacy
+* spacy==0.101.0
