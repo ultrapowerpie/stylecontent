@@ -31,6 +31,9 @@ Written in Python 2.7
 src/
 
 data/
+
   input/
+
   output/
+
   static_data/
