@@ -25,3 +25,12 @@ Written in Python 2.7
 * tensorflow-gpu==1.1.0
 
 * spacy==0.101.0
+
+### Directory Structure
+
+src/
+
+data/
+  input/
+  output/
+  static_data/
