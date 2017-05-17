@@ -32,8 +32,8 @@ Written in Python 2.7
 
 * data/
 
-** input/
+  * input/
 
-** output/
+  * output/
 
-** static_data/
+  * static_data/
