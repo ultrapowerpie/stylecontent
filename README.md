@@ -28,12 +28,12 @@ Written in Python 2.7
 
 ### Directory Structure
 
-src/
+* src/
 
-data/
-|
-|__ input/
-|
-|__ output/
-|
-|__ static_data/
+* data/
+
+** input/
+
+** output/
+
+** static_data/
